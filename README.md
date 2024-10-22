@@ -1,4 +1,4 @@
-# Hi, I’m Nail! 👋
+# Hi, I’m Nayil! 👋
 
 I’m glad to see you on my GitHub.
 Not long ago, I decided to master **Data Analysis**. To achieve this ambitious goal, I need a deep understanding of mathematics (including algebra), statistics, Python (including libraries like Pandas, Numpy, Sklearn), and SQL. I am currently studying all of this with SENATOROVAI.
