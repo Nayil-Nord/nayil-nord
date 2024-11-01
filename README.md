@@ -5,4 +5,4 @@ Not long ago, I decided to master **Data Analysis**. To achieve this ambitious g
 
 I am a **robotics engineer**. I enjoy programming with Arduino and ESP32, which I'm also learning. I’m passionate about robotics startups.
 
-In addition, I am a technological artist and a master’s student in **Technological Art** at NITU MISIS.
+I am a **technological artist** and a master’s student in **Technological Art** at NITU MISIS.
